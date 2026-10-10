@@ -75,7 +75,7 @@ Among the 15 completed responses:
 - 8/15 (53.3%) recognized that kidney disease may not show clear symptoms in its early stages.
 - 11/15 (73.3%) identified diabetes and high blood pressure as common causes associated with kidney failure.
 - 12/15 (80%) correctly understood that dialysis does not restore the kidneys to their normal function.
-- 10/15 (33.3%) already knew that the kidneys play roles in bone health, vitamin D activation, and red blood cell production, while **5/15 (66.7%)** were not aware of these functions.
+- 5/15 (33.3%) already knew that the kidneys play roles in bone health, vitamin D activation, and red blood cell production, while **10/15 (66.7%)** were not aware of these functions.
 
 ### After Reading
 
